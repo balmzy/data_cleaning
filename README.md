@@ -1,8 +1,8 @@
-# Data cleaning depository
+# Data cleaning repository
 
 Hello everyone!
 
-This is my personal depository for data cleaning projects. Have a look and comment!
+This is my personal repository for data cleaning and exploratory data analysis projects. Have a look and comment!
 
 ## List of completed projects
 1) Cafe Sales - Dirty Data for Cleaning Training   
